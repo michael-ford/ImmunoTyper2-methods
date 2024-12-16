@@ -2,7 +2,6 @@
 #SBATCH --mail-type=END,FAIL
 
 SOURCE_EBI_UUID=47772002-3e5b-4fd3-b97c-18cee38d6df2
-TARGET_UUID=e2620047-6d04-11e5-ba46-22000b92c6ec
 
 globus transfer --no-verify-checksum --notify succeeded,failed,inactive --skip-source-errors \
   $SOURCE_EBI_UUID $TARGET_UUID --batch globus_urls.txt 
