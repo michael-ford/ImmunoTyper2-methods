@@ -1,7 +1,7 @@
 nextflow.enable.dsl=2
 
-params.sra_run_table1 = "SraRunTable-ERP120144.tsv"
-params.sra_run_table2 = "SraRunTable-ERP114329.tsv"
+params.sra_run_table1 = "../SraRunTable-ERP120144.tsv"
+params.sra_run_table2 = "../SraRunTable-ERP114329.tsv"
 params.out_dir = "wgs-samples"
 
 process downloadReference {
@@ -133,7 +133,7 @@ process generateGlobusURLs {
     """
     while IFS= read -r line; do
         x=\${line##*/}
-        echo "\$line ${params.out_dir}/\$x"
+        echo "\$line ${projectDir}/${params.out_dir}/\$x"
     done < ${urls_file} > globus_urls.txt
     """
 }

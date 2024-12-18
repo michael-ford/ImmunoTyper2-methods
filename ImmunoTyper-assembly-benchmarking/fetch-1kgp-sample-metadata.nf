@@ -79,13 +79,13 @@ process generateGlobusURLs {
     # Process TRAV URLs
     while IFS= read -r line; do
         x=\${line##*/}
-        echo "\$line data/1kgp-wgs/TRAV/\$x" >> globus_urls.txt
+        echo "\$line ${projectDir}/data/1kgp-wgs/TRAV/\$x" >> globus_urls.txt
     done < ${trav_urls}
     
     # Process IGLV URLs
     while IFS= read -r line; do
         x=\${line##*/}
-        echo "\$line data/1kgp-wgs/IGLV/\$x" >> globus_urls.txt
+        echo "\$line ${projectDir}/data/1kgp-wgs/IGLV/\$x" >> globus_urls.txt
     done < ${iglv_urls}
     """
 }
