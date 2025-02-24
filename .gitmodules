@@ -1,0 +1,6 @@
+[submodule "ImmunoTyper2"]
+	path = ImmunoTyper2
+	url = git@github.com:algo-cancer/ImmunoTyper2.git
+[submodule "HPRC-assembly-benchmarking/vquest"]
+	path = HPRC-assembly-benchmarking/vquest
+	url = git@github.com:ShawHahnLab/vquest.git
