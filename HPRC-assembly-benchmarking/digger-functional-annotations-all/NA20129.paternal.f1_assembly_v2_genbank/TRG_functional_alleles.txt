@@ -1,0 +1,9 @@
+# Functional TRG alleles for NA20129.paternal.f1_assembly_v2_genbank
+# From 1 contigs: na201291jahepe010000084117838824-17966855
+# Total alleles: 5
+
+TRGV2*01
+TRGV3*01
+TRGV5P*02
+TRGV8*01
+TRGV9*01

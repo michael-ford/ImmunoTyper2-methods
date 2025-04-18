@@ -1,37 +1,35 @@
 name: immunotyper-methods
 channels:
-  - conda-forge
   - bioconda
+  - conda-forge
   - defaults
 dependencies:
-  # Core dependencies from benchmark_utils.py
-  - python=3.8
-  - pandas
   - biopython
-  - pathlib
-  - samtools
-  
-  # Workflow management
+  - black
+  - flake8
+  - ipython
+  - jupyter
   - nextflow
-  
-  # Testing dependencies
+  - numpy
+  - pandas
+  - pathlib
+  - pre_commit
   - pytest
   - pytest-cov
   - pytest-mock
   - pytest-xdist
-  
-  # Development tools
-  - ipython
-  - jupyter
-  - black
-  - flake8
-  - pre_commit
-    
-  # Documentation
+  - python==3.9.19
+  - seaborn
   - sphinx
   - sphinx_rtd_theme
-  
-  # Additional useful tools
   - tqdm
-  - numpy
-  - seaborn
+  - samtools
+  - awscli
+  - bioconda::blast
+  - bioconda::bedtools
+  - bioconda::minimap2=2.28
+  - pysam
+  - bioconda::hmmer
+  - conda-forge::scikit-learn
+  - bioconda::bowtie2
+  - freebayes

@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG02622.maternal.f1_assembly_v2_genbank
+# From 1 contigs: hg026222jahaon010000024183649883-83693914
+# Total alleles: 1
+
+TRDV2*03

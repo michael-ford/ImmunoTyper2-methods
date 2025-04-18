@@ -4,3 +4,9 @@
 [submodule "HPRC-assembly-benchmarking/vquest"]
 	path = HPRC-assembly-benchmarking/vquest
 	url = git@github.com:ShawHahnLab/vquest.git
+[submodule "HPRC-assembly-benchmarking/digger"]
+	path = HPRC-assembly-benchmarking/digger
+	url = git@github.com:williamdlees/digger.git
+[submodule "HPRC-assembly-benchmarking/receptor_utils"]
+	path = HPRC-assembly-benchmarking/receptor_utils
+	url = git@github.com:williamdlees/receptor_utils.git

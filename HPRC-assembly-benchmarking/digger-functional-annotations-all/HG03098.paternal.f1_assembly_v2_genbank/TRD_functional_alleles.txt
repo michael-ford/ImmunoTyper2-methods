@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG03098.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg030981jahepm010000080130039473-30083504
+# Total alleles: 1
+
+TRDV2*03

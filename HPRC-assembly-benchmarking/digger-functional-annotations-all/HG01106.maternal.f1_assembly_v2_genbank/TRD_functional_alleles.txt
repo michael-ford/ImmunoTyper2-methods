@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG01106.maternal.f1_assembly_v2_genbank
+# From 1 contigs: hg011062jahamb010000013183499278-83543309
+# Total alleles: 1
+
+TRDV2*03

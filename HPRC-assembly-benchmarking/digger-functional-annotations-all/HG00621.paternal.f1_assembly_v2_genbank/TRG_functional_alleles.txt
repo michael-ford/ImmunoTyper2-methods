@@ -1,0 +1,9 @@
+# Functional TRG alleles for HG00621.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg006211jahbcd010000050137354820-37482851
+# Total alleles: 5
+
+TRGV2*01
+TRGV3*01
+TRGV5P*02
+TRGV8*01
+TRGV9*01

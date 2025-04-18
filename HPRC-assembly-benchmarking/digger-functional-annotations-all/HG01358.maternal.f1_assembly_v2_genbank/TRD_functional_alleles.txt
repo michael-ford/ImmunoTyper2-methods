@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG01358.maternal.f1_assembly_v2_genbank
+# From 1 contigs: hg013582jagyza01000009019486303-9530334
+# Total alleles: 1
+
+TRDV2*03

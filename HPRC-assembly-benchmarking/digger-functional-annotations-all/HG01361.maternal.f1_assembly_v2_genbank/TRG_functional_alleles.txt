@@ -1,0 +1,11 @@
+# Functional TRG alleles for HG01361.maternal.f1_assembly_v2_genbank
+# From 1 contigs: hg013612jagyyw010000046125039790-25167821
+# Total alleles: 7
+
+TRGV2*01
+TRGV3*01
+TRGV4*01
+TRGV5*01
+TRGV5P*02
+TRGV8*01
+TRGV9*01

@@ -1,0 +1,2445 @@
+Processing ighv...
+Successfully processed ighv
+------------------------
+Processing igkv...
+Successfully processed igkv
+------------------------
+Processing iglv...
+Successfully processed iglv
+------------------------
+Processing immunotyper_run-ighv.swarm...
+Successfully processed immunotyper_run-ighv.swarm
+------------------------
+Processing trav...
+Successfully processed trav
+------------------------
+Processing trbv...
+Successfully processed trbv
+------------------------
+Processing trdv...
+Successfully processed trdv
+------------------------
+Processing trgv...
+Successfully processed trgv
+------------------------
+All gene types processed.
+-IGHV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00733.final-IGHV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00735.final-IGHV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00741.final-IGHV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01071.final-IGHV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/f7/a5af9e109e2487ce073f161e04250f/HG01106.final-IGHV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01109.final-IGHV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01175.final-IGHV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01243.final-IGHV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01258.final-IGHV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01358.final-IGHV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01361.final-IGHV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01891.final-IGHV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01928.final-IGHV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01952.final-IGHV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01978.final-IGHV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02055.final-IGHV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02080.final-IGHV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02145.final-IGHV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02148.final-IGHV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02257.final-IGHV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02622.final-IGHV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02630.final-IGHV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02717.final-IGHV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02723.final-IGHV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02818.final-IGHV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02886.final-IGHV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03098.final-IGHV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03453.final-IGHV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03486.final-IGHV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03492.final-IGHV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03516.final-IGHV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03540.final-IGHV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03579.final-IGHV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/NA18906.final-IGHV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/NA19240.final-IGHV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/NA20129.final-IGHV-multi_solution_info
+Found 39 samples for ighv gene type
+
+Processing sample HG00438
+Loaded 63 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00438.final-IGHV_functional_allele_calls.txt
+Loaded 63 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 1 multi-band, 6 near-optimal
+Found 19 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG00438_IGHV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00621.final-IGHV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 3 multi-band, 8 near-optimal
+Found 40 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG00621_IGHV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00673.final-IGHV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 0 multi-band, 8 near-optimal
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG00673_IGHV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 63 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00733.final-IGHV_functional_allele_calls.txt
+Loaded 63 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 4 multi-band, 6 near-optimal
+Found 59 functionality discrepancies for HG00733
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG00733_IGHV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 62 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00735.final-IGHV_functional_allele_calls.txt
+Loaded 62 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 3 multi-band, 7 near-optimal
+Found 58 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG00735_IGHV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG00741.final-IGHV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 4 multi-band, 9 near-optimal
+Found 57 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG00741_IGHV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01071.final-IGHV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 4 multi-band, 5 near-optimal
+Found 70 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01071_IGHV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01106.final-IGHV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 3 multi-band, 9 near-optimal
+Found 44 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01106_IGHV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01109.final-IGHV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 4 multi-band, 7 near-optimal
+Found 60 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01109_IGHV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 60 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01175.final-IGHV_functional_allele_calls.txt
+Loaded 60 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 3 multi-band, 8 near-optimal
+Found 52 functionality discrepancies for HG01175
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01175_IGHV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01243.final-IGHV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 1 multi-band, 7 near-optimal
+Found 24 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01243_IGHV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 68 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01258.final-IGHV_functional_allele_calls.txt
+Loaded 68 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 0 multi-band, 9 near-optimal
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01258_IGHV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 64 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01358.final-IGHV_functional_allele_calls.txt
+Loaded 64 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 4 multi-band, 1 near-optimal
+Found 73 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01358_IGHV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 64 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01361.final-IGHV_functional_allele_calls.txt
+Loaded 64 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 2 multi-band, 9 near-optimal
+Found 45 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01361_IGHV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 69 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01891.final-IGHV_functional_allele_calls.txt
+Loaded 69 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 4 multi-band, 5 near-optimal
+Found 62 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01891_IGHV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01928.final-IGHV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 2 multi-band, 9 near-optimal
+Found 41 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01928_IGHV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 46 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01952.final-IGHV_functional_allele_calls.txt
+Loaded 46 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 4 multi-band, 3 near-optimal
+Found 66 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01952_IGHV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 48 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG01978.final-IGHV_functional_allele_calls.txt
+Loaded 48 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 4 multi-band, 9 near-optimal
+Found 75 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG01978_IGHV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 63 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02055.final-IGHV_functional_allele_calls.txt
+Loaded 63 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 4 multi-band, 4 near-optimal
+Found 54 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02055_IGHV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 51 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02080.final-IGHV_functional_allele_calls.txt
+Loaded 51 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 4 multi-band, 2 near-optimal
+Found 42 functionality discrepancies for HG02080
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02080_IGHV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 44 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02145.final-IGHV_functional_allele_calls.txt
+Loaded 44 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 3 multi-band, 3 near-optimal
+Found 51 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02145_IGHV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 63 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02148.final-IGHV_functional_allele_calls.txt
+Loaded 63 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 3 multi-band, 9 near-optimal
+Found 55 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02148_IGHV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 60 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02257.final-IGHV_functional_allele_calls.txt
+Loaded 60 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 3 multi-band, 4 near-optimal
+Found 58 functionality discrepancies for HG02257
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02257_IGHV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 64 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02622.final-IGHV_functional_allele_calls.txt
+Loaded 64 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 0 multi-band, 9 near-optimal
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02622_IGHV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02630.final-IGHV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 2 multi-band, 8 near-optimal
+Found 54 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02630_IGHV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 83 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02717.final-IGHV_functional_allele_calls.txt
+Loaded 83 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 3 multi-band, 4 near-optimal
+Found 81 functionality discrepancies for HG02717
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02717_IGHV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 63 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02723.final-IGHV_functional_allele_calls.txt
+Loaded 63 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 3 multi-band, 9 near-optimal
+Found 74 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02723_IGHV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 68 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02818.final-IGHV_functional_allele_calls.txt
+Loaded 68 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 3 multi-band, 9 near-optimal
+Found 59 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02818_IGHV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG02886.final-IGHV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 2 multi-band, 6 near-optimal
+Found 30 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG02886_IGHV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 68 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03098.final-IGHV_functional_allele_calls.txt
+Loaded 68 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 4 multi-band, 1 near-optimal
+Found 54 functionality discrepancies for HG03098
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03098_IGHV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 85 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03453.final-IGHV_functional_allele_calls.txt
+Loaded 85 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 1 multi-band, 9 near-optimal
+Found 33 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03453_IGHV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 69 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03486.final-IGHV_functional_allele_calls.txt
+Loaded 69 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 4 multi-band, 9 near-optimal
+Found 70 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03486_IGHV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03492.final-IGHV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 4 multi-band, 9 near-optimal
+Found 68 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03492_IGHV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 67 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03516.final-IGHV_functional_allele_calls.txt
+Loaded 67 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 4 multi-band, 7 near-optimal
+Found 58 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03516_IGHV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 25 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03540.final-IGHV_functional_allele_calls.txt
+Loaded 25 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 4 multi-band, 9 near-optimal
+Found 40 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03540_IGHV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 61 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/HG03579.final-IGHV_functional_allele_calls.txt
+Loaded 61 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 4 multi-band, 8 near-optimal
+Found 61 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/HG03579_IGHV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 67 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/NA18906.final-IGHV_functional_allele_calls.txt
+Loaded 67 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 2 multi-band, 9 near-optimal
+Found 31 functionality discrepancies for NA18906
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/NA18906_IGHV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 73 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/NA19240.final-IGHV_functional_allele_calls.txt
+Loaded 73 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 2 multi-band, 7 near-optimal
+Found 54 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/NA19240_IGHV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 61 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/ighv/NA20129.final-IGHV_functional_allele_calls.txt
+Loaded 61 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 3 multi-band, 6 near-optimal
+Found 43 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/ighv/per_sample/NA20129_IGHV_prefix_consistency.csv
+
+Saved 1915 functionality discrepancies to ./prefix-consistency/ighv/functionality_discrepancies_IGHV.csv
+
+Saved aggregated results to ./prefix-consistency/ighv/all_samples_IGHV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/ighv/summary_stats_IGHV.csv
+
+Summary:
+Total samples processed: 39
+Total alleles analyzed: 12693
+Functional alleles: 4270 (33.6%)
+
+Prefix consistency distribution:
+prefix_consistency
+0    7974
+1    2181
+2     872
+3     471
+4    1195
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency     0     1    2    3    4
+is_functional                                
+False               4953  1446  673  359  992
+True                3021   735  199  112  203
+Loaded functionality data for 170 alleles from database
+Functional alleles: 81, Non-functional alleles: 89
+Found gene type directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv
+Found sample HG00438 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/35/5b4afe59bc799e980434872b660179/HG00438.final-IGKV-multi_solution_info
+Found sample HG00621 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/d6/6b3f4b1a43cf11bf0ad137d4813ebe/HG00621.final-IGKV-multi_solution_info
+Found sample HG00673 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/fa/88ddae8af8535f2115ace974bc2cd3/HG00673.final-IGKV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/7c/5573e949c6f313a5d5aed0ada461ca/HG00733.final-IGKV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/8d/da5d810ce0ed3d0539fe2987218541/HG00735.final-IGKV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/23/6dceb027e066cb0b99ab3a502cdeda/HG00741.final-IGKV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/54/c964097d23c36777a217b79f52c63f/HG01071.final-IGKV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01106.final-IGKV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01109.final-IGKV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01175.final-IGKV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01243.final-IGKV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01258.final-IGKV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01358.final-IGKV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01361.final-IGKV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01891.final-IGKV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/ae/1539900841f748fe4e612e27bbddc6/HG01928.final-IGKV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01952.final-IGKV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01978.final-IGKV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02055.final-IGKV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02080.final-IGKV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02145.final-IGKV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/09/61a8429ddf3c3484d8dbc972f255d3/HG02148.final-IGKV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02257.final-IGKV-multi_solution_info
+Found sample HG02572 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02572.final-IGKV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02622.final-IGKV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02630.final-IGKV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/63/85678f29a17a431d8e15da173955a2/HG02717.final-IGKV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02723.final-IGKV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02818.final-IGKV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02886.final-IGKV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03098.final-IGKV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03453.final-IGKV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03486.final-IGKV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03492.final-IGKV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03516.final-IGKV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03540.final-IGKV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/89/7cc0901140f17e35c3095338516ab8/HG03579.final-IGKV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/NA18906.final-IGKV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/NA19240.final-IGKV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/NA20129.final-IGKV-multi_solution_info
+Found 40 samples for igkv gene type
+
+Processing sample HG00438
+Loaded 45 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG00438.final-IGKV_functional_allele_calls.txt
+Loaded 45 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 18 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG00438_IGKV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 38 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG00621.final-IGKV_functional_allele_calls.txt
+Loaded 38 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 4 multi-band, 7 near-optimal
+Found 19 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG00621_IGKV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG00673.final-IGKV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 13 functionality discrepancies for HG00673
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG00673_IGKV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 36 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG00733.final-IGKV_functional_allele_calls.txt
+Loaded 36 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 4 multi-band, 1 near-optimal
+Found 19 functionality discrepancies for HG00733
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG00733_IGKV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 35 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG00735.final-IGKV_functional_allele_calls.txt
+Loaded 35 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 24 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG00735_IGKV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 46 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG00741.final-IGKV_functional_allele_calls.txt
+Loaded 46 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 3 multi-band, 6 near-optimal
+Found 8 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG00741_IGKV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 35 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01071.final-IGKV_functional_allele_calls.txt
+Loaded 35 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 3 multi-band, 7 near-optimal
+Found 16 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01071_IGKV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01106.final-IGKV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 23 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01106_IGKV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01109.final-IGKV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 3 multi-band, 9 near-optimal
+Found 14 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01109_IGKV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 30 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01175.final-IGKV_functional_allele_calls.txt
+Loaded 30 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 3 multi-band, 2 near-optimal
+Found 16 functionality discrepancies for HG01175
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01175_IGKV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 45 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01243.final-IGKV_functional_allele_calls.txt
+Loaded 45 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 4 multi-band, 2 near-optimal
+Found 12 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01243_IGKV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 44 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01258.final-IGKV_functional_allele_calls.txt
+Loaded 44 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 4 multi-band, 9 near-optimal
+Found 12 functionality discrepancies for HG01258
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01258_IGKV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 47 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01358.final-IGKV_functional_allele_calls.txt
+Loaded 47 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 15 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01358_IGKV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01361.final-IGKV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 2 multi-band, 9 near-optimal
+Found 6 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01361_IGKV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 43 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01891.final-IGKV_functional_allele_calls.txt
+Loaded 43 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 6 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01891_IGKV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 36 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01928.final-IGKV_functional_allele_calls.txt
+Loaded 36 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 19 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01928_IGKV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01952.final-IGKV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 4 multi-band, 7 near-optimal
+Found 19 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01952_IGKV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 29 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG01978.final-IGKV_functional_allele_calls.txt
+Loaded 29 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 23 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG01978_IGKV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02055.final-IGKV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 4 multi-band, 3 near-optimal
+Found 17 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02055_IGKV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02080.final-IGKV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 13 functionality discrepancies for HG02080
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02080_IGKV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02145.final-IGKV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 4 multi-band, 1 near-optimal
+Found 15 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02145_IGKV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02148.final-IGKV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 5 multi-band, 5 near-optimal
+Found 24 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02148_IGKV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 47 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02257.final-IGKV_functional_allele_calls.txt
+Loaded 47 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 14 functionality discrepancies for HG02257
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02257_IGKV_prefix_consistency.csv
+
+Processing sample HG02572
+Loaded 50 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02572.final-IGKV_functional_allele_calls.txt
+Loaded 50 functional alleles from file for HG02572
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 15 functionality discrepancies for HG02572
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02572_IGKV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 46 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02622.final-IGKV_functional_allele_calls.txt
+Loaded 46 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 6 functionality discrepancies for HG02622
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02622_IGKV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 36 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02630.final-IGKV_functional_allele_calls.txt
+Loaded 36 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 4 multi-band, 2 near-optimal
+Found 12 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02630_IGKV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02717.final-IGKV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 13 functionality discrepancies for HG02717
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02717_IGKV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02723.final-IGKV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 3 multi-band, 1 near-optimal
+Found 11 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02723_IGKV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 45 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02818.final-IGKV_functional_allele_calls.txt
+Loaded 45 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 14 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02818_IGKV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG02886.final-IGKV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 3 multi-band, 9 near-optimal
+Found 20 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG02886_IGKV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03098.final-IGKV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 1 multi-band, 4 near-optimal
+Found 8 functionality discrepancies for HG03098
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03098_IGKV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 32 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03453.final-IGKV_functional_allele_calls.txt
+Loaded 32 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 2 multi-band, 2 near-optimal
+Found 15 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03453_IGKV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03486.final-IGKV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 15 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03486_IGKV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 44 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03492.final-IGKV_functional_allele_calls.txt
+Loaded 44 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 4 multi-band, 2 near-optimal
+Found 16 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03492_IGKV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 47 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03516.final-IGKV_functional_allele_calls.txt
+Loaded 47 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 12 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03516_IGKV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 36 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03540.final-IGKV_functional_allele_calls.txt
+Loaded 36 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 3 multi-band, 5 near-optimal
+Found 12 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03540_IGKV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 25 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/HG03579.final-IGKV_functional_allele_calls.txt
+Loaded 25 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 4 multi-band, 2 near-optimal
+Found 12 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/HG03579_IGKV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/NA18906.final-IGKV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 3 multi-band, 8 near-optimal
+Found 10 functionality discrepancies for NA18906
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/NA18906_IGKV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 49 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/NA19240.final-IGKV_functional_allele_calls.txt
+Loaded 49 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 12 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/NA19240_IGKV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 43 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/igkv/NA20129.final-IGKV_functional_allele_calls.txt
+Loaded 43 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 4 multi-band, 2 near-optimal
+Found 17 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/igkv/per_sample/NA20129_IGKV_prefix_consistency.csv
+
+Saved 585 functionality discrepancies to ./prefix-consistency/igkv/functionality_discrepancies_IGKV.csv
+
+Saved aggregated results to ./prefix-consistency/igkv/all_samples_IGKV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/igkv/summary_stats_IGKV.csv
+
+Summary:
+Total samples processed: 40
+Total alleles analyzed: 5009
+Functional alleles: 2206 (44.0%)
+
+Prefix consistency distribution:
+prefix_consistency
+0    1536
+1    1372
+2     549
+3     269
+4    1283
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency    0    1    2    3    4
+is_functional                              
+False               739  795  330  155  784
+True                797  577  219  114  499
+Loaded functionality data for 175 alleles from database
+Functional alleles: 91, Non-functional alleles: 84
+Found gene type directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv
+Found sample HG00438 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/9f/9ddb371eec86260ed55ebe85f18599/HG00438.final-IGLV-multi_solution_info
+Found sample HG00621 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/87/02a787966f6b88358056c6f2fb048f/HG00621.final-IGLV-multi_solution_info
+Found sample HG00673 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/46/26321388199ec423e07068b50f5df3/HG00673.final-IGLV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/09/d59593fa0f55ace10daf8abbad98ca/HG00733.final-IGLV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/65/c9be23036e646f8f549e310e5ee172/HG00735.final-IGLV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/61/8c006bf71ce8947d3c8bceb08eda87/HG00741.final-IGLV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/90/388271c6b062212b9e9615d6ea8245/HG01071.final-IGLV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01106.final-IGLV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01109.final-IGLV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01175.final-IGLV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01243.final-IGLV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01258.final-IGLV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01358.final-IGLV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01361.final-IGLV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/2b/4eb791103f35c15d530f0750c92a03/HG01891.final-IGLV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/5c/e384e1a81e9bfc9e35bfe6d6b7faae/HG01928.final-IGLV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01952.final-IGLV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01978.final-IGLV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02055.final-IGLV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02080.final-IGLV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/9d/0c93590df46c48a17686eaa68ae802/HG02145.final-IGLV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02148.final-IGLV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/45/0cadbc952b39e009dfda37e08c0fe1/HG02257.final-IGLV-multi_solution_info
+Found sample HG02572 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02572.final-IGLV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/b2/9b92a2e94f02f7cd6f97234a9c772b/HG02622.final-IGLV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02630.final-IGLV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/0a/0fc7fdcea21a1785d5e6c271f96883/HG02717.final-IGLV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02723.final-IGLV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02818.final-IGLV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/01/8935ab002b63991347d298363122ff/HG02886.final-IGLV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03098.final-IGLV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03453.final-IGLV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/64/18dc1665c48db721ea98040f1a39dc/HG03486.final-IGLV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03492.final-IGLV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03516.final-IGLV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03540.final-IGLV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03579.final-IGLV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/NA18906.final-IGLV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/NA19240.final-IGLV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/NA20129.final-IGLV-multi_solution_info
+Found 40 samples for iglv gene type
+
+Processing sample HG00438
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG00438.final-IGLV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 18 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG00438_IGLV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG00621.final-IGLV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 22 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG00621_IGLV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 35 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG00673.final-IGLV_functional_allele_calls.txt
+Loaded 35 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 26 functionality discrepancies for HG00673
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG00673_IGLV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG00733.final-IGLV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 18 functionality discrepancies for HG00733
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG00733_IGLV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 38 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG00735.final-IGLV_functional_allele_calls.txt
+Loaded 38 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 26 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG00735_IGLV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG00741.final-IGLV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 22 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG00741_IGLV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01071.final-IGLV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 18 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01071_IGLV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01106.final-IGLV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 25 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01106_IGLV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01109.final-IGLV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 24 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01109_IGLV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01175.final-IGLV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 26 functionality discrepancies for HG01175
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01175_IGLV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01243.final-IGLV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 20 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01243_IGLV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 45 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01258.final-IGLV_functional_allele_calls.txt
+Loaded 45 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 28 functionality discrepancies for HG01258
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01258_IGLV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01358.final-IGLV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 21 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01358_IGLV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01361.final-IGLV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 15 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01361_IGLV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01891.final-IGLV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 23 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01891_IGLV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 34 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01928.final-IGLV_functional_allele_calls.txt
+Loaded 34 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 30 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01928_IGLV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 31 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01952.final-IGLV_functional_allele_calls.txt
+Loaded 31 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 16 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01952_IGLV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 43 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG01978.final-IGLV_functional_allele_calls.txt
+Loaded 43 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 29 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG01978_IGLV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02055.final-IGLV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 18 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02055_IGLV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 36 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02080.final-IGLV_functional_allele_calls.txt
+Loaded 36 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 30 functionality discrepancies for HG02080
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02080_IGLV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02145.final-IGLV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 22 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02145_IGLV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 35 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02148.final-IGLV_functional_allele_calls.txt
+Loaded 35 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 27 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02148_IGLV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02257.final-IGLV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 28 functionality discrepancies for HG02257
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02257_IGLV_prefix_consistency.csv
+
+Processing sample HG02572
+Loaded 35 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02572.final-IGLV_functional_allele_calls.txt
+Loaded 35 functional alleles from file for HG02572
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 22 functionality discrepancies for HG02572
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02572_IGLV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 42 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02622.final-IGLV_functional_allele_calls.txt
+Loaded 42 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 25 functionality discrepancies for HG02622
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02622_IGLV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 40 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02630.final-IGLV_functional_allele_calls.txt
+Loaded 40 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 34 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02630_IGLV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 34 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02717.final-IGLV_functional_allele_calls.txt
+Loaded 34 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 24 functionality discrepancies for HG02717
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02717_IGLV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 38 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02723.final-IGLV_functional_allele_calls.txt
+Loaded 38 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 29 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02723_IGLV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 37 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02818.final-IGLV_functional_allele_calls.txt
+Loaded 37 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 25 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02818_IGLV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 38 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG02886.final-IGLV_functional_allele_calls.txt
+Loaded 38 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 37 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG02886_IGLV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 37 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03098.final-IGLV_functional_allele_calls.txt
+Loaded 37 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 22 functionality discrepancies for HG03098
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03098_IGLV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 37 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03453.final-IGLV_functional_allele_calls.txt
+Loaded 37 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 29 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03453_IGLV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 36 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03486.final-IGLV_functional_allele_calls.txt
+Loaded 36 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 24 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03486_IGLV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 37 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03492.final-IGLV_functional_allele_calls.txt
+Loaded 37 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 19 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03492_IGLV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 37 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03516.final-IGLV_functional_allele_calls.txt
+Loaded 37 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 24 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03516_IGLV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 34 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03540.final-IGLV_functional_allele_calls.txt
+Loaded 34 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 5 multi-band, 8 near-optimal
+Found 21 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03540_IGLV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 34 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/HG03579.final-IGLV_functional_allele_calls.txt
+Loaded 34 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 5 multi-band, 5 near-optimal
+Found 20 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/HG03579_IGLV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 39 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/NA18906.final-IGLV_functional_allele_calls.txt
+Loaded 39 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 26 functionality discrepancies for NA18906
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/NA18906_IGLV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 43 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/NA19240.final-IGLV_functional_allele_calls.txt
+Loaded 43 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 25 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/NA19240_IGLV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 41 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/iglv/NA20129.final-IGLV_functional_allele_calls.txt
+Loaded 41 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 24 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/iglv/per_sample/NA20129_IGLV_prefix_consistency.csv
+
+Saved 962 functionality discrepancies to ./prefix-consistency/iglv/functionality_discrepancies_IGLV.csv
+
+Saved aggregated results to ./prefix-consistency/iglv/all_samples_IGLV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/iglv/summary_stats_IGLV.csv
+
+Summary:
+Total samples processed: 40
+Total alleles analyzed: 5135
+Functional alleles: 2502 (48.7%)
+
+Prefix consistency distribution:
+prefix_consistency
+0    1237
+1     894
+2     496
+3     300
+4    2208
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency    0    1    2    3     4
+is_functional                               
+False               430  375  233  133  1462
+True                807  519  263  167   746
+Warning: Allele database file not found: ../../ImmunoTyper2/immunotyper/data/allele_databases/IMMUNOTYPER_RUN-IGHV.SWARM/IMMUNOTYPER_RUN-IGHV.SWARM-IMGT-allele-db.fa
+Gene type directory not found: ../../HPRC-assembly-benchmarking/immunotyper-output/immunotyper_run-ighv.swarm
+No samples found for gene type immunotyper_run-ighv.swarm in directory ../../HPRC-assembly-benchmarking/immunotyper-output
+Loaded functionality data for 135 alleles from database
+Functional alleles: 109, Non-functional alleles: 26
+Found gene type directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav
+Found sample HG00438 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/61/e4e5eb798b9d7f617291139d98d0e9/HG00438.final-TRAV-multi_solution_info
+Found sample HG00621 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/e9/4d885af28a3c31ccd10057655466a6/HG00621.final-TRAV-multi_solution_info
+Found sample HG00673 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/76/1cddc7c17f953e66b93944ec398ff5/HG00673.final-TRAV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/9e/d0b3a0ae1139044c8b84f07690c65f/HG00733.final-TRAV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/44/db890ce3ed7daa389f4f09ca08daba/HG00735.final-TRAV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/92/fe16bbcecd85909df9f00ae1e202e0/HG00741.final-TRAV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/31/b7320cd22538b88cc7f5a7de0ea196/HG01071.final-TRAV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01106.final-TRAV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01109.final-TRAV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01175.final-TRAV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01243.final-TRAV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01258.final-TRAV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01358.final-TRAV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01361.final-TRAV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/10/c0af7526f6c1ec398684094fec6c89/HG01891.final-TRAV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01928.final-TRAV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01952.final-TRAV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01978.final-TRAV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02055.final-TRAV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02080.final-TRAV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/5d/faaddd157296f5679213a570f174ea/HG02145.final-TRAV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02148.final-TRAV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02257.final-TRAV-multi_solution_info
+Found sample HG02572 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02572.final-TRAV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02622.final-TRAV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02630.final-TRAV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02717.final-TRAV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/6f/56568af1214c7b10103201be3c83ff/HG02723.final-TRAV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02818.final-TRAV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02886.final-TRAV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03098.final-TRAV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03453.final-TRAV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03486.final-TRAV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03492.final-TRAV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/1f/bab0dddadf10a5cc43d5581772ab0b/HG03516.final-TRAV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03540.final-TRAV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/8e/ca749d9dd7f82464ca4926379e5593/HG03579.final-TRAV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/NA18906.final-TRAV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/NA19240.final-TRAV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trav/NA20129.final-TRAV-multi_solution_info
+Found 40 samples for trav gene type
+
+Processing sample HG00438
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG00438.final-TRAV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 10 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG00438_TRAV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG00621.final-TRAV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 14 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG00621_TRAV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 60 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG00673.final-TRAV_functional_allele_calls.txt
+Loaded 60 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 13 functionality discrepancies for HG00673
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG00673_TRAV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 52 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG00733.final-TRAV_functional_allele_calls.txt
+Loaded 52 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 6 functionality discrepancies for HG00733
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG00733_TRAV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 61 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG00735.final-TRAV_functional_allele_calls.txt
+Loaded 61 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 12 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG00735_TRAV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG00741.final-TRAV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 14 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG00741_TRAV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 61 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01071.final-TRAV_functional_allele_calls.txt
+Loaded 61 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 11 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01071_TRAV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01106.final-TRAV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 12 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01106_TRAV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01109.final-TRAV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 17 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01109_TRAV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01175.final-TRAV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 14 functionality discrepancies for HG01175
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01175_TRAV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01243.final-TRAV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 17 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01243_TRAV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01258.final-TRAV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 19 functionality discrepancies for HG01258
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01258_TRAV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01358.final-TRAV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 8 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01358_TRAV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01361.final-TRAV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 13 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01361_TRAV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01891.final-TRAV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 12 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01891_TRAV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01928.final-TRAV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 13 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01928_TRAV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01952.final-TRAV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 15 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01952_TRAV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG01978.final-TRAV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 23 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG01978_TRAV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02055.final-TRAV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 6 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02055_TRAV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 60 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02080.final-TRAV_functional_allele_calls.txt
+Loaded 60 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 15 functionality discrepancies for HG02080
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02080_TRAV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02145.final-TRAV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 12 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02145_TRAV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 62 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02148.final-TRAV_functional_allele_calls.txt
+Loaded 62 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 17 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02148_TRAV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02257.final-TRAV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 19 functionality discrepancies for HG02257
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02257_TRAV_prefix_consistency.csv
+
+Processing sample HG02572
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02572.final-TRAV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG02572
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 15 functionality discrepancies for HG02572
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02572_TRAV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02622.final-TRAV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 19 functionality discrepancies for HG02622
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02622_TRAV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02630.final-TRAV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 5 multi-band, 5 near-optimal
+Found 22 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02630_TRAV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02717.final-TRAV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 5 multi-band, 8 near-optimal
+Found 18 functionality discrepancies for HG02717
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02717_TRAV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02723.final-TRAV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 19 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02723_TRAV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02818.final-TRAV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 15 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02818_TRAV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 61 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG02886.final-TRAV_functional_allele_calls.txt
+Loaded 61 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 12 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG02886_TRAV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03098.final-TRAV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 5 functionality discrepancies for HG03098
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03098_TRAV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03453.final-TRAV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 14 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03453_TRAV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 60 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03486.final-TRAV_functional_allele_calls.txt
+Loaded 60 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 9 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03486_TRAV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 52 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03492.final-TRAV_functional_allele_calls.txt
+Loaded 52 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 14 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03492_TRAV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03516.final-TRAV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 10 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03516_TRAV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03540.final-TRAV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 18 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03540_TRAV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/HG03579.final-TRAV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 12 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/trav/per_sample/HG03579_TRAV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/NA18906.final-TRAV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 11 functionality discrepancies for NA18906
+Saved per-sample results to ./prefix-consistency/trav/per_sample/NA18906_TRAV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/NA19240.final-TRAV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 20 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/trav/per_sample/NA19240_TRAV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trav/NA20129.final-TRAV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 17 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/trav/per_sample/NA20129_TRAV_prefix_consistency.csv
+
+Saved 562 functionality discrepancies to ./prefix-consistency/trav/functionality_discrepancies_TRAV.csv
+
+Saved aggregated results to ./prefix-consistency/trav/all_samples_TRAV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/trav/summary_stats_TRAV.csv
+
+Summary:
+Total samples processed: 40
+Total alleles analyzed: 3655
+Functional alleles: 2830 (77.4%)
+
+Prefix consistency distribution:
+prefix_consistency
+0     681
+1     685
+2     401
+3     261
+4    1627
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency    0    1    2    3     4
+is_functional                               
+False                77  138   74   40   496
+True                604  547  327  221  1131
+Loaded functionality data for 168 alleles from database
+Functional alleles: 115, Non-functional alleles: 53
+Found gene type directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv
+Found sample HG00438 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/40/323fb340cfda093e32017ca25a45ee/HG00438.final-TRBV-multi_solution_info
+Found sample HG00621 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/35/c526c5c3c95fe253af28fcb79f8b19/HG00621.final-TRBV-multi_solution_info
+Found sample HG00673 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/47/cf7727295faff8b686fdeb36caa34e/HG00673.final-TRBV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/df/60a649e26b7ab1f2f7ef8154429206/HG00733.final-TRBV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/be/f477039c93a499a4bb8715ae0ccd00/HG00735.final-TRBV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/ea/7b9b7654bdd3ca093a0dcb05b97a99/HG00741.final-TRBV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/b8/dee9f1b4a4af4e007595ff70cc6505/HG01071.final-TRBV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01106.final-TRBV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01109.final-TRBV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01175.final-TRBV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/7e/2989ff0df9560873552f7fa9bde92f/HG01243.final-TRBV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01258.final-TRBV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/b7/8958a3f46657905d15e0900a1ae0bf/HG01358.final-TRBV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/41/2171263c62f207f60e7f5d4ec4479d/HG01361.final-TRBV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/87/1d172073fa7d2dca608bdaa6c54f89/HG01891.final-TRBV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01928.final-TRBV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01952.final-TRBV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01978.final-TRBV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02055.final-TRBV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02080.final-TRBV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/35/fc8385594caf01cfabbe9cbbf4b469/HG02145.final-TRBV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02148.final-TRBV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/22/f6413c359cf745042afd064624c3eb/HG02257.final-TRBV-multi_solution_info
+Found sample HG02572 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02572.final-TRBV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02622.final-TRBV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02630.final-TRBV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02717.final-TRBV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/f8/31b9e0cdb25cd88588248cb92495cc/HG02723.final-TRBV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02818.final-TRBV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02886.final-TRBV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03098.final-TRBV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03453.final-TRBV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/93/b71b3922af82778a3ca2172d49f470/HG03486.final-TRBV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03492.final-TRBV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/5d/eaf92b35052948a549a1a4ce217836/HG03516.final-TRBV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03540.final-TRBV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/6d/4bd573d5a96ac35bba445e8a04dc3d/HG03579.final-TRBV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/d7/d895661589053263a729bc6adbf5e9/NA18906.final-TRBV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/NA19240.final-TRBV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/NA20129.final-TRBV-multi_solution_info
+Found 40 samples for trbv gene type
+
+Processing sample HG00438
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG00438.final-TRBV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 21 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG00438_TRBV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG00621.final-TRBV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 21 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG00621_TRBV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 50 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG00673.final-TRBV_functional_allele_calls.txt
+Loaded 50 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 21 functionality discrepancies for HG00673
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG00673_TRBV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG00733.final-TRBV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 13 functionality discrepancies for HG00733
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG00733_TRBV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG00735.final-TRBV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 22 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG00735_TRBV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG00741.final-TRBV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 19 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG00741_TRBV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01071.final-TRBV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 21 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01071_TRBV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01106.final-TRBV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 23 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01106_TRBV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01109.final-TRBV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 21 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01109_TRBV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 52 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01175.final-TRBV_functional_allele_calls.txt
+Loaded 52 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 16 functionality discrepancies for HG01175
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01175_TRBV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01243.final-TRBV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 5 multi-band, 6 near-optimal
+Found 19 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01243_TRBV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01258.final-TRBV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 21 functionality discrepancies for HG01258
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01258_TRBV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 58 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01358.final-TRBV_functional_allele_calls.txt
+Loaded 58 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 23 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01358_TRBV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01361.final-TRBV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 24 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01361_TRBV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01891.final-TRBV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 21 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01891_TRBV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01928.final-TRBV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 17 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01928_TRBV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01952.final-TRBV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 13 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01952_TRBV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 61 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG01978.final-TRBV_functional_allele_calls.txt
+Loaded 61 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 25 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG01978_TRBV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 60 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02055.final-TRBV_functional_allele_calls.txt
+Loaded 60 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 13 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02055_TRBV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02080.final-TRBV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 5 multi-band, 7 near-optimal
+Found 18 functionality discrepancies for HG02080
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02080_TRBV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02145.final-TRBV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 25 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02145_TRBV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02148.final-TRBV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 19 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02148_TRBV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 50 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02257.final-TRBV_functional_allele_calls.txt
+Loaded 50 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 23 functionality discrepancies for HG02257
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02257_TRBV_prefix_consistency.csv
+
+Processing sample HG02572
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02572.final-TRBV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG02572
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 23 functionality discrepancies for HG02572
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02572_TRBV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 49 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02622.final-TRBV_functional_allele_calls.txt
+Loaded 49 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 5 multi-band, 5 near-optimal
+Found 29 functionality discrepancies for HG02622
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02622_TRBV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 51 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02630.final-TRBV_functional_allele_calls.txt
+Loaded 51 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 29 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02630_TRBV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02717.final-TRBV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 5 multi-band, 5 near-optimal
+Found 25 functionality discrepancies for HG02717
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02717_TRBV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02723.final-TRBV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 5 multi-band, 7 near-optimal
+Found 17 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02723_TRBV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 50 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02818.final-TRBV_functional_allele_calls.txt
+Loaded 50 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 13 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02818_TRBV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG02886.final-TRBV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 25 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG02886_TRBV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 52 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03098.final-TRBV_functional_allele_calls.txt
+Loaded 52 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 18 functionality discrepancies for HG03098
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03098_TRBV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03453.final-TRBV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 22 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03453_TRBV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 56 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03486.final-TRBV_functional_allele_calls.txt
+Loaded 56 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 19 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03486_TRBV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 54 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03492.final-TRBV_functional_allele_calls.txt
+Loaded 54 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 25 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03492_TRBV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 59 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03516.final-TRBV_functional_allele_calls.txt
+Loaded 59 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 5 multi-band, 9 near-optimal
+Found 18 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03516_TRBV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 57 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03540.final-TRBV_functional_allele_calls.txt
+Loaded 57 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 14 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03540_TRBV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 55 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/HG03579.final-TRBV_functional_allele_calls.txt
+Loaded 55 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 18 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/HG03579_TRBV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 52 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/NA18906.final-TRBV_functional_allele_calls.txt
+Loaded 52 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 30 functionality discrepancies for NA18906
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/NA18906_TRBV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 53 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/NA19240.final-TRBV_functional_allele_calls.txt
+Loaded 53 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 24 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/NA19240_TRBV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 47 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trbv/NA20129.final-TRBV_functional_allele_calls.txt
+Loaded 47 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 5 multi-band, 4 near-optimal
+Found 15 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/trbv/per_sample/NA20129_TRBV_prefix_consistency.csv
+
+Saved 823 functionality discrepancies to ./prefix-consistency/trbv/functionality_discrepancies_TRBV.csv
+
+Saved aggregated results to ./prefix-consistency/trbv/all_samples_TRBV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/trbv/summary_stats_TRBV.csv
+
+Summary:
+Total samples processed: 40
+Total alleles analyzed: 4740
+Functional alleles: 3007 (63.4%)
+
+Prefix consistency distribution:
+prefix_consistency
+0     985
+1     853
+2     494
+3     362
+4    2046
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency    0    1    2    3     4
+is_functional                               
+False               266  260  146  139   922
+True                719  593  348  223  1124
+Loaded functionality data for 6 alleles from database
+Functional alleles: 6, Non-functional alleles: 0
+Found gene type directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv
+Found sample HG00438 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/12/2f03b8c0e2c4f4a8e4130da551a366/HG00438.final-TRDV-multi_solution_info
+Found sample HG00621 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/36/4c50aa82447381f8a256a37c21da9c/HG00621.final-TRDV-multi_solution_info
+Found sample HG00673 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/cf/4cc6bad4205e494d6da848ac835727/HG00673.final-TRDV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/b8/166104623aa2d5e3c973e93a210f2d/HG00733.final-TRDV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/23/502bb8b2336b86d9692e93063eafc2/HG00735.final-TRDV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/3a/b6c66b01813b77bc3204d406ff58df/HG00741.final-TRDV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/e1/915e91bbf91d6f90e54945215443aa/HG01071.final-TRDV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01106.final-TRDV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/0c/7bb884134ed49e77bd12c926b964a1/HG01109.final-TRDV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01175.final-TRDV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/8b/7fc1740a8067ef65b284b72ab34c7c/HG01243.final-TRDV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/b6/5daef653f2e2e919510baed9d6538e/HG01258.final-TRDV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01358.final-TRDV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01361.final-TRDV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/5e/92fcb857962a30411acb4d046a64b3/HG01891.final-TRDV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01928.final-TRDV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/c7/be46c0ab4cc9608205aa24da14e701/HG01952.final-TRDV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01978.final-TRDV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/1a/0fe258d2c13e963f81ebd291fb55bb/HG02055.final-TRDV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02080.final-TRDV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/f0/06467b0a177eb9ee9c430860aed9bb/HG02145.final-TRDV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02148.final-TRDV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/de/b1b4636cff98246fbddf9386b66107/HG02257.final-TRDV-multi_solution_info
+Found sample HG02572 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02572.final-TRDV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02622.final-TRDV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/d9/5c2aa72a2c5f607042df778e2928d6/HG02630.final-TRDV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02717.final-TRDV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02723.final-TRDV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/64/33e7c12ffb020f3d8475980d77373f/HG02818.final-TRDV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02886.final-TRDV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/91/13a77331bc96442c5511329fcc073d/HG03098.final-TRDV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03453.final-TRDV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/70/0626900efa45f6f6decb3debc652c9/HG03486.final-TRDV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03492.final-TRDV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/8d/b05c161dce44aa50ec84ed63a7a6fb/HG03516.final-TRDV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03540.final-TRDV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/66/5d6b04d11bc291d4c759d13dfc7927/HG03579.final-TRDV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/NA18906.final-TRDV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/NA19240.final-TRDV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/ea/a5ffff8130c6054f80f0dc3c599688/NA20129.final-TRDV-multi_solution_info
+Found 40 samples for trdv gene type
+
+Processing sample HG00438
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG00438.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG00438_TRDV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG00621.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG00621_TRDV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG00673.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG00673
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG00673_TRDV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 5 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG00733.final-TRDV_functional_allele_calls.txt
+Loaded 5 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG00733_TRDV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG00735.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG00735_TRDV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG00741.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG00741_TRDV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01071.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01071_TRDV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01106.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01106_TRDV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01109.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01109_TRDV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 5 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01175.final-TRDV_functional_allele_calls.txt
+Loaded 5 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01175_TRDV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01243.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01243_TRDV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01258.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01258_TRDV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01358.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01358_TRDV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01361.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01361_TRDV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01891.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01891_TRDV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01928.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01928_TRDV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01952.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01952_TRDV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG01978.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG01978_TRDV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02055.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02055_TRDV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02080.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02080_TRDV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02145.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02145_TRDV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02148.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02148_TRDV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 5 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02257.final-TRDV_functional_allele_calls.txt
+Loaded 5 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02257_TRDV_prefix_consistency.csv
+
+Processing sample HG02572
+Loaded 5 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02572.final-TRDV_functional_allele_calls.txt
+Loaded 5 functional alleles from file for HG02572
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02572_TRDV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02622.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG02622
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02622_TRDV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02630.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02630_TRDV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02717.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02717_TRDV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02723.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02723_TRDV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02818.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02818_TRDV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG02886.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG02886_TRDV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03098.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03098_TRDV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03453.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03453_TRDV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03486.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03486_TRDV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03492.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03492_TRDV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03516.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03516_TRDV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03540.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03540_TRDV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 3 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/HG03579.final-TRDV_functional_allele_calls.txt
+Loaded 3 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/HG03579_TRDV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/NA18906.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/NA18906_TRDV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/NA19240.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/NA19240_TRDV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trdv/NA20129.final-TRDV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/trdv/per_sample/NA20129_TRDV_prefix_consistency.csv
+
+Saved 46 functionality discrepancies to ./prefix-consistency/trdv/functionality_discrepancies_TRDV.csv
+
+Saved aggregated results to ./prefix-consistency/trdv/all_samples_TRDV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/trdv/summary_stats_TRDV.csv
+
+Summary:
+Total samples processed: 40
+Total alleles analyzed: 191
+Functional alleles: 191 (100.0%)
+
+Prefix consistency distribution:
+prefix_consistency
+0    40
+1    27
+2    20
+3     9
+4    95
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency   0   1   2  3   4
+is_functional                        
+True                40  27  20  9  95
+Loaded functionality data for 24 alleles from database
+Functional alleles: 11, Non-functional alleles: 13
+Found gene type directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv
+Found sample HG00438 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/a6/f4e3dff11b43099f1538ad81dd9b03/HG00438.final-TRGV-multi_solution_info
+Found sample HG00621 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/08/c44b9b788ea50d94b7fa35dee85214/HG00621.final-TRGV-multi_solution_info
+Found sample HG00673 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/c0/bdd8274e5e8f2e517e70e5595ffe37/HG00673.final-TRGV-multi_solution_info
+Found sample HG00733 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/b4/63a963e0c8803d49e443107e559830/HG00733.final-TRGV-multi_solution_info
+Found sample HG00735 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/30/b59b6caa607c307d0cb1b85faf2d82/HG00735.final-TRGV-multi_solution_info
+Found sample HG00741 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/8a/e7d89cbc32a0f77a3a5958abb8f2ae/HG00741.final-TRGV-multi_solution_info
+Found sample HG01071 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/21/196f5003685de36284b00d2d89ea6e/HG01071.final-TRGV-multi_solution_info
+Found sample HG01106 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01106.final-TRGV-multi_solution_info
+Found sample HG01109 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/a8/49ae8d86bd1406e784a3c3a0796837/HG01109.final-TRGV-multi_solution_info
+Found sample HG01175 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01175.final-TRGV-multi_solution_info
+Found sample HG01243 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/e7/0493c0afde7c1c9cda519147b5fc77/HG01243.final-TRGV-multi_solution_info
+Found sample HG01258 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01258.final-TRGV-multi_solution_info
+Found sample HG01358 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/fd/3db55350f9ec7bce8e8024b92775d5/HG01358.final-TRGV-multi_solution_info
+Found sample HG01361 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01361.final-TRGV-multi_solution_info
+Found sample HG01891 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/f4/8341ba54d592f167019fdaf00da961/HG01891.final-TRGV-multi_solution_info
+Found sample HG01928 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01928.final-TRGV-multi_solution_info
+Found sample HG01952 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/58/dbbe60a9bd7db036a4f0e88011242f/HG01952.final-TRGV-multi_solution_info
+Found sample HG01978 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/70/40ae47d7f40ed9c7752ff0cf37b778/HG01978.final-TRGV-multi_solution_info
+Found sample HG02055 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02055.final-TRGV-multi_solution_info
+Found sample HG02080 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02080.final-TRGV-multi_solution_info
+Found sample HG02145 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/4d/3f0e74dcc1404762abfdef21ff4548/HG02145.final-TRGV-multi_solution_info
+Found sample HG02148 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/6f/ceb0855493375034998cbc3bb6e524/HG02148.final-TRGV-multi_solution_info
+Found sample HG02257 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/57/e7a79c2165a1c63bf4dd5f68d8272b/HG02257.final-TRGV-multi_solution_info
+Found sample HG02572 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02572.final-TRGV-multi_solution_info
+Found sample HG02622 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02622.final-TRGV-multi_solution_info
+Found sample HG02630 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02630.final-TRGV-multi_solution_info
+Found sample HG02717 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02717.final-TRGV-multi_solution_info
+Found sample HG02723 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02723.final-TRGV-multi_solution_info
+Found sample HG02818 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/aa/a7bbcddb57158068c4494b7ed67d6c/HG02818.final-TRGV-multi_solution_info
+Found sample HG02886 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02886.final-TRGV-multi_solution_info
+Found sample HG03098 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/a9/1ac8ab80582b486772df5bf8c3b469/HG03098.final-TRGV-multi_solution_info
+Found sample HG03453 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03453.final-TRGV-multi_solution_info
+Found sample HG03486 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/e7/c02dc50803f721a280d8548d363825/HG03486.final-TRGV-multi_solution_info
+Found sample HG03492 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03492.final-TRGV-multi_solution_info
+Found sample HG03516 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/4b/c064af67bb7dd4262ac3d359c18f66/HG03516.final-TRGV-multi_solution_info
+Found sample HG03540 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/92/bb9a858764cd145747d155747880f3/HG03540.final-TRGV-multi_solution_info
+Found sample HG03579 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03579.final-TRGV-multi_solution_info
+Found sample NA18906 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/bd/09622fddca6511470dc4d0a86cee9c/NA18906.final-TRGV-multi_solution_info
+Found sample NA19240 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/NA19240.final-TRGV-multi_solution_info
+Found sample NA20129 with solution directory: ../../HPRC-assembly-benchmarking/immunotyper-output/work/e6/93681ff53c8a9a1e71a70794987697/NA20129.final-TRGV-multi_solution_info
+Found 40 samples for trgv gene type
+
+Processing sample HG00438
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG00438.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG00438
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG00438
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG00438_TRGV_prefix_consistency.csv
+
+Processing sample HG00621
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG00621.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG00621
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG00621
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG00621_TRGV_prefix_consistency.csv
+
+Processing sample HG00673
+Loaded 9 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG00673.final-TRGV_functional_allele_calls.txt
+Loaded 9 functional alleles from file for HG00673
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG00673
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG00673_TRGV_prefix_consistency.csv
+
+Processing sample HG00733
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG00733.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG00733
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG00733
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG00733_TRGV_prefix_consistency.csv
+
+Processing sample HG00735
+Loaded 8 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG00735.final-TRGV_functional_allele_calls.txt
+Loaded 8 functional alleles from file for HG00735
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG00735
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG00735_TRGV_prefix_consistency.csv
+
+Processing sample HG00741
+Loaded 8 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG00741.final-TRGV_functional_allele_calls.txt
+Loaded 8 functional alleles from file for HG00741
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG00741
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG00741_TRGV_prefix_consistency.csv
+
+Processing sample HG01071
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01071.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG01071
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG01071
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01071_TRGV_prefix_consistency.csv
+
+Processing sample HG01106
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01106.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG01106
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG01106
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01106_TRGV_prefix_consistency.csv
+
+Processing sample HG01109
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01109.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG01109
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for HG01109
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01109_TRGV_prefix_consistency.csv
+
+Processing sample HG01175
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01175.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG01175
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG01175
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01175_TRGV_prefix_consistency.csv
+
+Processing sample HG01243
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01243.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG01243
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 5 functionality discrepancies for HG01243
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01243_TRGV_prefix_consistency.csv
+
+Processing sample HG01258
+Loaded 8 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01258.final-TRGV_functional_allele_calls.txt
+Loaded 8 functional alleles from file for HG01258
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01258
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01258_TRGV_prefix_consistency.csv
+
+Processing sample HG01358
+Loaded 8 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01358.final-TRGV_functional_allele_calls.txt
+Loaded 8 functional alleles from file for HG01358
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01358
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01358_TRGV_prefix_consistency.csv
+
+Processing sample HG01361
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01361.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG01361
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG01361
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01361_TRGV_prefix_consistency.csv
+
+Processing sample HG01891
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01891.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG01891
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01891
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01891_TRGV_prefix_consistency.csv
+
+Processing sample HG01928
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01928.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG01928
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG01928
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01928_TRGV_prefix_consistency.csv
+
+Processing sample HG01952
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01952.final-TRGV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG01952
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG01952
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01952_TRGV_prefix_consistency.csv
+
+Processing sample HG01978
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG01978.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG01978
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG01978
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG01978_TRGV_prefix_consistency.csv
+
+Processing sample HG02055
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02055.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02055
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG02055
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02055_TRGV_prefix_consistency.csv
+
+Processing sample HG02080
+Loaded 8 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02080.final-TRGV_functional_allele_calls.txt
+Loaded 8 functional alleles from file for HG02080
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG02080
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02080_TRGV_prefix_consistency.csv
+
+Processing sample HG02145
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02145.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02145
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG02145
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02145_TRGV_prefix_consistency.csv
+
+Processing sample HG02148
+Loaded 8 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02148.final-TRGV_functional_allele_calls.txt
+Loaded 8 functional alleles from file for HG02148
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 2 functionality discrepancies for HG02148
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02148_TRGV_prefix_consistency.csv
+
+Processing sample HG02257
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02257.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02257
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG02257
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02257_TRGV_prefix_consistency.csv
+
+Processing sample HG02572
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02572.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG02572
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 4 functionality discrepancies for HG02572
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02572_TRGV_prefix_consistency.csv
+
+Processing sample HG02622
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02622.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02622
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG02622
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02622_TRGV_prefix_consistency.csv
+
+Processing sample HG02630
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02630.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG02630
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG02630
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02630_TRGV_prefix_consistency.csv
+
+Processing sample HG02717
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02717.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02717
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 5 functionality discrepancies for HG02717
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02717_TRGV_prefix_consistency.csv
+
+Processing sample HG02723
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02723.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02723
+Loaded solutions: 1 optimal, 5 multi-band, 2 near-optimal
+Found 3 functionality discrepancies for HG02723
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02723_TRGV_prefix_consistency.csv
+
+Processing sample HG02818
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02818.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG02818
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG02818
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02818_TRGV_prefix_consistency.csv
+
+Processing sample HG02886
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG02886.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG02886
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG02886
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG02886_TRGV_prefix_consistency.csv
+
+Processing sample HG03098
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03098.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG03098
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 2 functionality discrepancies for HG03098
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03098_TRGV_prefix_consistency.csv
+
+Processing sample HG03453
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03453.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG03453
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG03453
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03453_TRGV_prefix_consistency.csv
+
+Processing sample HG03486
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03486.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG03486
+Loaded solutions: 1 optimal, 5 multi-band, 5 near-optimal
+Found 4 functionality discrepancies for HG03486
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03486_TRGV_prefix_consistency.csv
+
+Processing sample HG03492
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03492.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for HG03492
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for HG03492
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03492_TRGV_prefix_consistency.csv
+
+Processing sample HG03516
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03516.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG03516
+Loaded solutions: 1 optimal, 5 multi-band, 3 near-optimal
+Found 4 functionality discrepancies for HG03516
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03516_TRGV_prefix_consistency.csv
+
+Processing sample HG03540
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03540.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for HG03540
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 4 functionality discrepancies for HG03540
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03540_TRGV_prefix_consistency.csv
+
+Processing sample HG03579
+Loaded 4 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/HG03579.final-TRGV_functional_allele_calls.txt
+Loaded 4 functional alleles from file for HG03579
+Loaded solutions: 1 optimal, 5 multi-band, 1 near-optimal
+Found 2 functionality discrepancies for HG03579
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/HG03579_TRGV_prefix_consistency.csv
+
+Processing sample NA18906
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/NA18906.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for NA18906
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 1 functionality discrepancies for NA18906
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/NA18906_TRGV_prefix_consistency.csv
+
+Processing sample NA19240
+Loaded 6 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/NA19240.final-TRGV_functional_allele_calls.txt
+Loaded 6 functional alleles from file for NA19240
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 5 functionality discrepancies for NA19240
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/NA19240_TRGV_prefix_consistency.csv
+
+Processing sample NA20129
+Loaded 7 functional alleles from ../../HPRC-assembly-benchmarking/immunotyper-output/trgv/NA20129.final-TRGV_functional_allele_calls.txt
+Loaded 7 functional alleles from file for NA20129
+Loaded solutions: 1 optimal, 5 multi-band, 0 near-optimal
+Found 3 functionality discrepancies for NA20129
+Saved per-sample results to ./prefix-consistency/trgv/per_sample/NA20129_TRGV_prefix_consistency.csv
+
+Saved 126 functionality discrepancies to ./prefix-consistency/trgv/functionality_discrepancies_TRGV.csv
+
+Saved aggregated results to ./prefix-consistency/trgv/all_samples_TRGV_prefix_consistency.csv
+Saved summary statistics to ./prefix-consistency/trgv/summary_stats_TRGV.csv
+
+Summary:
+Total samples processed: 40
+Total alleles analyzed: 866
+Functional alleles: 392 (45.3%)
+
+Prefix consistency distribution:
+prefix_consistency
+0    212
+1    204
+2    138
+3     72
+4    240
+Name: count, dtype: int64
+
+Prefix consistency by functionality:
+prefix_consistency    0    1   2   3    4
+is_functional                            
+False               100  114  72  43  145
+True                112   90  66  29   95

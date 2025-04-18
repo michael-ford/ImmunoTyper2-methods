@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG00733.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg007331jahepq01000001314027286-4071317
+# Total alleles: 1
+
+TRDV2*01

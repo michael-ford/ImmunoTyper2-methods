@@ -1,0 +1,9 @@
+# Functional TRG alleles for HG00741.maternal.f1_assembly_v2_genbank
+# From 1 contigs: hg007412jahalx010000065125052195-25181881
+# Total alleles: 5
+
+TRGV2*01
+TRGV3*01
+TRGV5P*02
+TRGV8*01
+TRGV9*01

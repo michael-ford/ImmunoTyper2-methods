@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG03453.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg034531jagyvw010000066137314072-37358103
+# Total alleles: 1
+
+TRDV2*03

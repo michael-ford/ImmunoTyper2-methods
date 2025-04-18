@@ -9,11 +9,11 @@ params.reference_fasta = "${projectDir}/GRCh38_full_analysis_set_plus_decoy_hla.
 params.output_dir = "immunotyper-output"
 
 // List of gene types to process
-gene_types = ['ighv', 'igkv', 'iglv', 'trav', 'trbv', 'trdv', 'trgv']
 
 include { Immunotyper } from "./immunotyper.nf"
 
 workflow {
+    gene_types = ['ighv', 'igkv', 'iglv', 'trav', 'trbv', 'trdv', 'trgv']
     // Create channel of input BAM files and their indices
     bam_files = Channel
         .fromPath("${params.wgs_dir}/*.cram")

@@ -1,0 +1,5 @@
+# Functional TRD alleles for NA18906.maternal.f1_assembly_v2_genbank
+# From 1 contigs: na189062jaheon01000001019871950-9915981
+# Total alleles: 1
+
+TRDV2*03

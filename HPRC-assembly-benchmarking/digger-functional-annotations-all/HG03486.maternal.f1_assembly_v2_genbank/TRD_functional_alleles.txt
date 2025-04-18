@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG03486.maternal.f1_assembly_v2_genbank
+# From 1 contigs: hg034862jaheop010000091130068091-30112122
+# Total alleles: 1
+
+TRDV2*03

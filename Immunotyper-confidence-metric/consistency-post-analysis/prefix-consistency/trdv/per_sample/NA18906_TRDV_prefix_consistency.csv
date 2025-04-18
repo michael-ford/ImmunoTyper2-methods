@@ -1,0 +1,5 @@
+allele_id,prefix_consistency,in_optimal,objective_diff,band0_copies,band1_copies,band2_copies,band3_copies,band4_copies,band5_copies,sample_id,gene_type,is_functional_db,is_functional_file,is_functional
+TRDV1*01,4,True,8.415841584158416,2.0,2.0,2.0,2.0,2.0,0,NA18906,TRDV,True,True,True
+TRDV3*01,4,True,8.415841584158416,2.0,2.0,2.0,2.0,2.0,0,NA18906,TRDV,True,True,True
+TRDV2*01,2,True,4.455445544554455,1.0,1.0,1.0,0.0,1.0,0,NA18906,TRDV,True,True,True
+TRDV2*03,2,True,4.455445544554455,1.0,1.0,1.0,2.0,1.0,0,NA18906,TRDV,True,True,True

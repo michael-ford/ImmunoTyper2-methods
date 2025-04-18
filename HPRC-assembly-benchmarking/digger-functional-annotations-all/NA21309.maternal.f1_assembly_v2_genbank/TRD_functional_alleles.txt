@@ -1,0 +1,6 @@
+# Functional TRD alleles for NA21309.maternal.f1_assembly_v2_genbank
+# From 1 contigs: na213092jahepb01000016719912652-9956683
+# Total alleles: 2
+
+TRDV2*01
+TRDV2*03

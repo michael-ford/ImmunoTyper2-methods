@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG01175.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg011751jahama010000005183549105-83593136
+# Total alleles: 1
+
+TRDV2*03

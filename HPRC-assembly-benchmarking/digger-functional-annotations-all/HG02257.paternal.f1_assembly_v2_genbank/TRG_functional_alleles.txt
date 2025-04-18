@@ -1,0 +1,11 @@
+# Functional TRG alleles for HG02257.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg022571jagyvi010000008120477186-20605530
+# Total alleles: 7
+
+TRGV2*01
+TRGV3*01
+TRGV4*02
+TRGV5*01
+TRGV5P*02
+TRGV8*01
+TRGV9*01

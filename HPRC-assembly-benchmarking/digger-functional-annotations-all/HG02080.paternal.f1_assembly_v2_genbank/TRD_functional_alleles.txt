@@ -1,0 +1,5 @@
+# Functional TRD alleles for HG02080.paternal.f1_assembly_v2_genbank
+# From 1 contigs: hg020801jaheow01000011415450665-5494696
+# Total alleles: 1
+
+TRDV2*03
