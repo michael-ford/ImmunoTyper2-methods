@@ -442,8 +442,9 @@ def plot_gene_concordance_distribution(concordance_df):
     # Create figure and axis objects
     fig, ax = plt.subplots(figsize=(20, 6))
     
-    # Create the violin plot
-    sns.boxplot(data=concordance_df, x='Gene Type', y='Concordance', ax=ax)
+    # Create the violin plot with different colors for each gene type
+    sns.boxplot(data=concordance_df, x='Gene Type', y='Concordance', 
+                palette='deep', ax=ax)  # Added palette parameter
     
     # Add individual points and store the scatter plot object
     scatter = sns.stripplot(data=concordance_df, x='Gene Type', y='Concordance', 
@@ -484,20 +485,24 @@ def plot_gene_concordance_distribution(concordance_df):
                                       short_label,
                                       horizontalalignment='right',
                                       verticalalignment='center',
-                                      fontsize=10)
+                                      fontsize=13)
                             else:
                                 ax.text(point_pos[0] + 0.01, point_pos[1], 
                                       short_label,
                                       horizontalalignment='left',
                                       verticalalignment='center',
-                                      fontsize=10)
-    
+                                      fontsize=13)
+
     # Customize the plot
-    # ax.set_title('Distribution of Per-Gene Mendelian Concordance by Gene Type')
-    ax.set_xlabel('Gene Type', fontsize=14)
-    ax.tick_params(axis='x', labelsize=14)
-    ax.set_xticklabels([label.get_text().upper() for label in ax.get_xticklabels()])
-    ax.set_ylabel('Concordance Rate', fontsize=14)
+    ax.set_xlabel('Gene Type', fontsize=17)
+    ax.tick_params(axis='x', labelsize=17)
+    
+    # Fix the warning by getting current tick positions first
+    current_labels = [label.get_text().upper() for label in ax.get_xticklabels()]
+    ax.set_xticks(ax.get_xticks())  # Set tick positions explicitly
+    ax.set_xticklabels(current_labels)  # Now set the labels
+    
+    ax.set_ylabel('Concordance Rate', fontsize=17)
     ax.set_ylim(0, 1)
     
     # Adjust layout
@@ -540,7 +545,7 @@ def analyze_gene_incidence(concordance_df):
             ax.annotate(short_label,
                        (row['Incidence_Percentage'], row['Concordance']),
                        xytext=(5, 5), textcoords='offset points',
-                       fontsize=10)
+                       fontsize=13)  # Increased from 10 to 13
     
     # Calculate linear regression and add trend line with confidence interval
     slope, intercept, corr, p_value, std_err = stats.linregress(
@@ -572,24 +577,27 @@ def analyze_gene_incidence(concordance_df):
     
     # Add correlation information (bottom right)
     ax.text(0.95, 0.05,
-            f'Correlation: {corr:.3f}\np-value: {p_value:.3e}',
+            f'Correlation: {corr:.3f}\n$p$-value: {p_value:.3e}',
             transform=ax.transAxes,
             horizontalalignment='right',
             verticalalignment='bottom',
+            fontsize=13,  # Added fontsize (increased by 3 from default ~10)
             bbox=dict(facecolor='white', alpha=0.8))
     
     # Customize plot
-    ax.set_xlabel('Gene Incidence (%)', fontsize=14)
-    ax.set_ylabel('Concordance Rate', fontsize=14)
+    ax.set_xlabel('Gene Incidence (%)', fontsize=17)  # Increased from 14 to 17
+    ax.set_ylabel('Concordance Rate', fontsize=17)    # Increased from 14 to 17
     # ax.set_title('Relationship between Gene Incidence and Concordance')
-    ax.legend()
+    ax.legend(fontsize=13)  # Added fontsize (increased by 3 from default ~10)
     ax.grid(True, alpha=0.3)
+    
+    # Increase tick label font size
+    ax.tick_params(axis='both', which='major', labelsize=13)  # Added for tick labels
     
     # Adjust layout
     fig.tight_layout()
     
     return fig, ax, concordance_df
-
 def get_trio_concordance_data(gene_types, genotype_dirs, trio_df):
     """
     Collect trio-level concordance data for different gene types.
@@ -642,7 +650,7 @@ def plot_trio_concordance_distribution(concordance_df):
     fig, ax = plt.subplots(figsize=(20, 6))
     
     # Create the box plot
-    sns.boxplot(data=concordance_df, x='Gene Type', y='Concordance', ax=ax)
+    sns.boxplot(data=concordance_df, x='Gene Type', y='Concordance', ax=ax, palette='deep')
     
     # Add individual points
     sns.stripplot(data=concordance_df, x='Gene Type', y='Concordance', 
@@ -650,9 +658,9 @@ def plot_trio_concordance_distribution(concordance_df):
     
     # Customize the plot
     # ax.set_title('Distribution of Trio-Level Concordance by Gene Type')
-    ax.set_xlabel('Gene Type', fontsize=14)
-    ax.set_ylabel('Concordance Rate', fontsize=14)
-    ax.tick_params(axis='x', labelsize=14)
+    ax.set_xlabel('Gene Type', fontsize=17)
+    ax.set_ylabel('Concordance Rate', fontsize=17)
+    ax.tick_params(axis='x', labelsize=17)
     ax.set_xticklabels([label.get_text().upper() for label in ax.get_xticklabels()])
     ax.set_ylim(0, 1)
     
@@ -896,12 +904,15 @@ def plot_concordance_vs_read_variation(trio_concordance_rates, read_stats_df, me
     lower_ci, upper_ci = confidence_interval(x, y, slope, intercept)
     ax.fill_between(x, lower_ci, upper_ci, color='red', alpha=0.1, label='95% CI')
     
-    # Customize plot
-    ax.set_xlabel(f'{metric_labels[method]} (%)', fontsize=14)
-    ax.set_ylabel('Trio Concordance Rate', fontsize=14)
+    # Customize plot with increased font sizes
+    ax.set_xlabel(f'{metric_labels[method]} (%)', fontsize=17)
+    ax.set_ylabel('Trio Concordance Rate', fontsize=17)
     ax.set_title(f'Trio Concordance vs {metric_labels[method]}\n' +
-                 f'Correlation: {r_value:.3f} (p={p_value:.2e})')
-    ax.legend()
+                 f'Correlation: {r_value:.3f} (p={p_value:.2e})', fontsize=15)
+    ax.legend(fontsize=12)
+    
+    # Increase tick label font sizes
+    ax.tick_params(axis='both', which='major', labelsize=12)
     
     return fig, ax
 
@@ -981,12 +992,18 @@ def plot_concordance_vs_child_parent_reduction(trio_concordance_rates, read_stat
     lower_ci, upper_ci = confidence_interval(x, y, slope, intercept)
     ax.fill_between(x, lower_ci, upper_ci, color='red', alpha=0.1, label='95% CI')
     
-    # Customize plot
-    ax.set_xlabel('Maximum Child-Parent Difference in Read Recruitment Ratio (%)', fontsize=14)
-    ax.set_ylabel('Trio Concordance Rate', fontsize=14)
+    # Customize plot with increased font sizes (+3 from original)
+    ax.set_xlabel('Maximum Child-Parent Difference in Read Recruitment Ratio (%)', fontsize=17)
+    ax.set_ylabel('Trio Concordance Rate', fontsize=17)
+    
+    # Set tick label font sizes (+3 from default ~10)
+    ax.tick_params(axis='both', which='major', labelsize=13)
+    
     print('Trio Concordance vs Maximum Parent-to-Child Read Recruitment Ratio Increase\n' +
                  f'Correlation: {r_value:.3f} (p={p_value:.2e})')
-    ax.legend()
+    
+    # Set legend font size (+3 from default ~10)
+    ax.legend(fontsize=13)
     
     # Add vertical line at x=0 to help visualize positive vs negative differences
     ax.axvline(x=0, color='gray', linestyle='--', alpha=0.5)
@@ -1077,7 +1094,8 @@ def plot_concordance_by_population(trio_concordance_rates, metadata_df):
     
     ax_top.set_xlim(-0.5, len(population_order) - 0.5)
     ax_top.set_xticks([])
-    ax_top.set_ylabel('Number of Trios', fontsize=12)
+    ax_top.set_ylabel('Number of Trios', fontsize=15)  # Increased from 12 to 15
+    ax_top.tick_params(axis='y', labelsize=12)  # Added tick label font size
     
     # Create color palette mapping each population to its group color
     pop_colors = {pop: group_colors[get_population_group(pop)] 
@@ -1113,8 +1131,9 @@ def plot_concordance_by_population(trio_concordance_rates, metadata_df):
     
     # Customize main plot
     ax_main.set_xticklabels(ax_main.get_xticklabels(), rotation=45, ha='right')
-    ax_main.set_xlabel('Population', fontsize=12)
-    ax_main.set_ylabel('Trio Concordance Rate', fontsize=12)
+    ax_main.set_xlabel('Population', fontsize=15)  # Increased from 12 to 15
+    ax_main.set_ylabel('Trio Concordance Rate', fontsize=15)  # Increased from 12 to 15
+    ax_main.tick_params(axis='both', labelsize=12)  # Added tick label font size
     
     # Add group separators and labels
     current_x = -0.5
@@ -1127,7 +1146,7 @@ def plot_concordance_by_population(trio_concordance_rates, metadata_df):
             ax_main.axvline(x=current_x, color='black', linestyle='--', alpha=0.3)
             # Add group label
             ax_main.text(current_x + group_width/2, ax_main.get_ylim()[1],
-                        group, ha='center', va='bottom')
+                        group, ha='center', va='bottom', fontsize=13)  # Added fontsize
             current_x += group_width
     
     # Create legend elements
@@ -1144,7 +1163,8 @@ def plot_concordance_by_population(trio_concordance_rates, metadata_df):
     ax_main.legend(handles=legend_elements, 
                 #   title='Continental Groups',
                   loc='lower right',
-                  bbox_to_anchor=(0.98, 0.02))
+                  bbox_to_anchor=(0.98, 0.02),
+                  fontsize=13)  # Added legend font size
     
     # Add statistical test results to figure title
     title = f'Trio Concordance by Population (Grouped by Continental Ancestry)\n'
@@ -1152,11 +1172,10 @@ def plot_concordance_by_population(trio_concordance_rates, metadata_df):
         populations = [group for _, group in plot_df.groupby('population')['concordance']]
         h_stat, p_value = stats.kruskal(*populations)
         title += f'Kruskal-Wallis H-test: p={p_value:.2e}'
-    # fig.suptitle(title, y=0.93)
+    # fig.suptitle(title, y=0.93, fontsize=16)  # If you uncomment, increased font size
     print(title)
     
     return fig, ax_main, stats_df
-
 
 def calculate_aligned_distances(fasta_file: str) -> Tuple[np.ndarray, List[str]]:
     """
